@@ -1,0 +1,50 @@
+
+
+body {
+  margin-inline-start: 80px;
+  margin-inline-end: 120px;
+
+}
+h1 {
+    text-align: center;
+    background-color: rgb(155, 173, 182);
+    text-shadow: 1px 1px 2px rgb(56, 38, 38), 0 0 25px rgb(232, 232, 227), 0 0 5px rgb(93, 152, 151);
+  }
+   
+  .prek {
+    display: flex;
+    flex-direction: row;
+    line-height: 2.0;
+    color: azure;
+    font-size: large;
+    
+
+  }
+ 
+  button:hover {
+    background-color: cornsilk;
+  }
+  button {
+    cursor: pointer;
+  }
+  .Next {
+    float: right;
+  }
+  .para{
+    margin-top: 100px;
+    margin-left: 550px;
+
+  }
+  img{
+    position: fixed;
+   
+  }
+ 
+
+
+
+
+
+
+
+  
